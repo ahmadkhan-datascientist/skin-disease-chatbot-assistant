@@ -1,0 +1,15 @@
+# Streamlit frontend
+streamlit
+
+# Unchanged backend dependencies (same as the Flask version required)
+groq
+deep-translator
+langdetect
+torch
+torchvision
+pillow
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
